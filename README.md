@@ -20,7 +20,4 @@ Features:
 * Close an account
 * Modify an account
 
-IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE BANK MANAGEMENT SYSTEM FEEL FREE TO CONTACT US:
 
-Shivam Gupta: shivamguptasg1808@gmail.com       
-Garima Garg: ggarima163@gmail.com
